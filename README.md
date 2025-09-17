@@ -34,12 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sgfhnn&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgfhnn&layout=compact&theme=radical)  
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sgfhnn&theme=radical)  
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Sgfhnn&theme=radical&margin-w=15&margin-h=15)
