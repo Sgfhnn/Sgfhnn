@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Anwar </h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 2nd Year IT Student at Arsi University</h3>
+<h3 align="center">💻 Full Stack Developer | 🎓 2nd Year Bsc IT Student at Arsi University</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="500"/>
@@ -44,7 +44,7 @@
 ### 📫 How to reach me  
 - 🌐 Portfolio : *Coming Soon*
 - ✉️ Email: anwarshube5@gmail.com
-- 💼 Telegram: [ Contact Me Via ](https://t.me/LeaderW5)  
+- 💼 Telegram: [ Contact Me Via Telegram](https://t.me/LeaderW5)  
 
 ---
 
