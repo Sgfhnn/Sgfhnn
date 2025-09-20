@@ -34,9 +34,6 @@
 
 ---
 
-
----
-
 ### 📫 How to reach me  
 - 🌐 Portfolio : *Coming Soon*
 - ✉️ Email: anwarshube5@gmail.com
