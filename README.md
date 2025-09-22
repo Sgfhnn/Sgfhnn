@@ -23,7 +23,7 @@
 - **Frontend:** React.js,Next.js HTML5, CSS3, Bootstrap/Tailwind
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Databases:** MySQL, MongoDB ,PostgreSQL
-- **Tools:** Git & GitHub, VS Code, Docker (learning)  
+- **Tools:** Firebase,SQlite,Hive ,Provider,BloC,Riverpod,Git & GitHub, VS Code, Docker (learning)  
 
 ---
 
