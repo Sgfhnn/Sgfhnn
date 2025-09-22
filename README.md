@@ -19,8 +19,8 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** JavaScript (ES6+), Python, Java, C/C++, Assembly (Learning)
-- **Frontend:** React.js,Next.js HTML5, CSS3, Bootstrap/Tailwind  
+- **Languages:** JavaScript (ES6+), Python, Java, C/C++, Flutter ,Dart , Assembly (Learning)
+- **Frontend:** React.js,Next.js HTML5, CSS3, Bootstrap/Tailwind
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Databases:** MySQL, MongoDB ,PostgreSQL
 - **Tools:** Git & GitHub, VS Code, Docker (learning)  
