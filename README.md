@@ -13,6 +13,7 @@
 
 
 ### 👨‍💻  [About Me](https://anuu-kaya.vercel.app)
+If Not Redirected Visit anuu-kaya.vercel.app
 
 - 🌱 I’m a **Full Stack Developer** developer
 - 🎓 I’m a **2nd-year IT student at Arsi University**  
