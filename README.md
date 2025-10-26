@@ -9,7 +9,11 @@
 
 ---
 
-### 👨‍💻 About Me  
+
+
+
+### 👨‍💻  [About Me](https://anuu-kaya.vercel.app)
+
 - 🌱 I’m a **Full Stack Developer** developer
 - 🎓 I’m a **2nd-year IT student at Arsi University**  
 - 💡 I love building **web apps** and experimenting with **new technologies**  
@@ -34,7 +38,9 @@
 
 ---
 
+
 ### 📫 How to reach me  
+-🎈[ Reach Me Out Here](https://anuu-kaya.vercel.app)
 - ✉️ Email: anwarshube5@gmail.com
 - 💼 Telegram: [ Contact Me Via Telegram](https://t.me/LeaderW5)  
 
