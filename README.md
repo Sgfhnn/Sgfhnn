@@ -24,11 +24,11 @@ If Not Redirected Visit https://anuu-kaya.vercel.app
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** JavaScript (ES6+), Python, Java, C/C++, Flutter ,Dart , Assembly (Learning)
+- **Languages:** JavaScript (ES6+), Python, Java, C/C++, Flutter ,Dart , Assembly,Rust (Learning)
 - **Frontend:** React.js,Next.js HTML5, CSS3, Bootstrap/Tailwind
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Databases:** MySQL, MongoDB ,PostgreSQL
-- **Tools:** Firebase,SQlite,Hive ,Provider,BloC,Riverpod,Git & GitHub, VS Code, Docker (learning)  
+- **Tools:** Firebase,SQlite,Hive ,Provider,BloC,Riverpod,Git & GitHub, VS Code, Docker
 
 ---
 
