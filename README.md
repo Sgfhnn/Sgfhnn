@@ -1,5 +1,7 @@
 # Hi, I'm Anwar Kaya 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=Sgfhnn&label=Profile%20views&color=0e75b6&style=flat)
+
 Full Stack Developer & AI Integration Engineer based in Addis Ababa, Ethiopia. I build web, mobile and AI-powered products and ship them to production.
 
 - 🔭 Currently building **SprintGigs**, a trilingual micro-task platform, and the **KennaJobs** AI job bot
