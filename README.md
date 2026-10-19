@@ -30,5 +30,5 @@ Full Stack Developer & AI Integration Engineer based in Addis Ababa, Ethiopia. I
 ## Contact
 
 - Portfolio: [anuu-kaya.vercel.app](https://anuu-kaya.vercel.app)
-- LinkedIn: [linkedin.com/in/anwar-kaya-1a5733385](https://www.linkedin.com/in/anwar-kaya-1a5733385)
+- Telegram: [@LeaderW5](https://t.me/LeaderW5)
 - Email: anwarshube5@gmail.com
