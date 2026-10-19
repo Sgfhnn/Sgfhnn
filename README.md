@@ -1,31 +1,34 @@
-<h1 align="center">Anwar Kaya</h1>
-<h3 align="center">Software Developer | Flutter &  Full Stack Engineer | AI Integration </h3>
+# Hi, I'm Anwar Kaya 👋
 
-<p align="center">
-Building production mobile apps and AI powered systems also Experienced in React , Node.js, Python & Backend Systems.
-</p>
+Full Stack Developer & AI Integration Engineer based in Addis Ababa, Ethiopia. I build web, mobile and AI-powered products and ship them to production.
 
----
+- 🔭 Currently building **SprintGigs**, a trilingual micro-task platform, and the **KennaJobs** AI job bot
+- 🤖 Recently built **Aria**, a real-time voice AI IT-support agent (WebRTC + Gemini Realtime) for a Saudi client
+- 🌱 Interested in AI agents, realtime voice and developer tools
+- 🌍 Open to remote roles worldwide
 
-### What I Build
+## Tech Stack
 
-- Flutter mobile apps — Firebase, BLoC, Riverpod, clean architecture
-- AI Integration systems — Claude API, OpenAI, Gemini, LangChain  
-- Full Stack web applications — React, Next.js, Node.js, PostgreSQL
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Mobile:** Flutter, Dart, Firebase  
+**Backend:** Node.js, Express, Python, FastAPI  
+**Databases:** PostgreSQL, Supabase, MongoDB, Firestore  
+**AI:** OpenAI, Claude, Gemini APIs, LangChain, computer vision  
+**DevOps:** Docker, Azure, Vercel, GitHub Actions
 
----
+## Featured Projects
 
-### Tech Stack
+| Project | Description |
+| --- | --- |
+| [AuraTrader AI](https://github.com/Sgfhnn/auratrader-ai) | Virtual forex trading app with manual, co-pilot and autonomous AI modes |
+| [EthCoffe](https://github.com/Sgfhnn/EthCoffe) | Coffee leaf disease checker ([live](https://coffee-leaf-checker.vercel.app)) |
+| [OSINT Intelligence](https://github.com/Sgfhnn/osint-intelligence) | Monitors social channels and flags disinformation in Ge'ez-script text |
+| [IT Support Agent](https://github.com/Sgfhnn/IT-Support-Agent-) | AI agent for IT support workflows |
+| [AI PPT Generator](https://github.com/Sgfhnn/AI-PPT-Generator) | Generates presentation decks with AI ([live](https://ai-ppt-generator-iota.vercel.app)) |
+| [Setup & Management Tool](https://github.com/Sgfhnn/setup-and-management-tool) | Windows GUI that installs a full Flutter dev environment |
 
-Mobile: Flutter, Dart, Firebase, BLoC, Riverpod, Provider
+## Contact
 
-Frontend: React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Three.js
-
-Backend: Node.js, Express, Python, FastAPI, Flask, REST APIs
-
-Database: PostgreSQL, Supabase, MongoDB, Firebase Firestore
-
-DevOps: Git, GitHub, Docker, Vercel, CI/CD
-
-
-AI & ML: Claude API, OpenAI API, Gemini API, TensorFlow, Scikit-Learn, Computer Vision
+- Portfolio: [anuu-kaya.vercel.app](https://anuu-kaya.vercel.app)
+- LinkedIn: [linkedin.com/in/anwar-kaya-1a5733385](https://www.linkedin.com/in/anwar-kaya-1a5733385)
+- Email: anwarshube5@gmail.com
