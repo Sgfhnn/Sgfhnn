@@ -25,8 +25,8 @@ Full Stack Developer & AI Integration Engineer based in Addis Ababa, Ethiopia. I
 | [AuraTrader AI](https://github.com/Sgfhnn/auratrader-ai) | Virtual forex trading app with manual, co-pilot and autonomous AI modes |
 | [EthCoffe](https://github.com/Sgfhnn/EthCoffe) | Coffee leaf disease checker ([live](https://coffee-leaf-checker.vercel.app)) |
 | [OSINT Intelligence](https://github.com/Sgfhnn/osint-intelligence) | Monitors social channels and flags disinformation in Ge'ez-script text |
-| [IT Support Agent](https://github.com/Sgfhnn/IT-Support-Agent-) | AI agent for IT support workflows |
-| [AI PPT Generator](https://github.com/Sgfhnn/AI-PPT-Generator) | Generates presentation decks with AI ([live](https://ai-ppt-generator-iota.vercel.app)) |
+| [Enc Visioner](https://github.com/Sgfhnn/enc_visioner) | Flutter app that recognizes Ethiopian birr notes for blind users |
+| [AI Job Qualification](https://github.com/Sgfhnn/AI-Job-Qualification-) | AI that screens applicant qualifications ([live](https://ai-job-qualification.vercel.app)) |
 | [Setup & Management Tool](https://github.com/Sgfhnn/setup-and-management-tool) | Windows GUI that installs a full Flutter dev environment |
 
 ## Contact
